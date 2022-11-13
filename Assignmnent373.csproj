@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Assignmnent373.CountVowelsAndConsonants</StartupObject>
+    <StartupObject>Assignmnent373.Armstrong</StartupObject>
   </PropertyGroup>
 
 </Project>

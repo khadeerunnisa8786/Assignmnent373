@@ -31,22 +31,6 @@ namespace Assignmnent373
                 Console.WriteLine(e.Message);
             }
 
-            //try
-            //{
-            //    Console.WriteLine("Enter a character");
-            //    char ch=(Char) Console.Read();
-            //    string s = "";
-            //    if(char.IsLetter(ch))
-            //    {
-            //        s=ch.ToString();
-            //        Console.WriteLine(s.ToUpper());
-            //    }
-            //}
-            //catch (Exception e)
-            //{
-
-            //    Console.WriteLine(e.Message);
-            //}
         }
     }
 }
